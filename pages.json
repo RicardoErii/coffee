@@ -139,15 +139,8 @@
 			"pagePath": "pages/index/index",
 			"iconPath": "static/images/tabbar/index.png",
 			"selectedIconPath": "static/images/tabbar/index_selected.png",
-			"text": "点单",
-		},
-		// }, {
-		// 	"pagePath": "pages/mart/mart",
-		// 	"iconPath": "static/images/tabbar/mart.png",
-		// 	"selectedIconPath": "static/images/tabbar/mart_selected.png",
-		// 	"text": "百货"
-		// }, {
-		{
+			"text": "点单"
+		},{
 			"pagePath": "pages/order/order",
 			"iconPath": "static/images/tabbar/order.png",
 			"selectedIconPath": "static/images/tabbar/order_selected.png",
